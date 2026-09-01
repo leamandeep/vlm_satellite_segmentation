@@ -10,7 +10,6 @@ dependencies = [
     "pillow>=12.3.0",
     "pytorch-lightning>=2.6.5",
     "rasterio>=1.5.1",
-    "st-styled>=0.5.1",
     "streamlit>=1.62.0",
     "streamlit-image-select>=0.6.0",
     "terratorch==1.2.2",

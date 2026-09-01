@@ -13,10 +13,6 @@ import torch
 from PIL import Image, ImageDraw
 from huggingface_hub import hf_hub_download
 from model import prompt_model
-import st_yled
-
-
-st_yled.init(theme="scandinavian")
 
 
 
